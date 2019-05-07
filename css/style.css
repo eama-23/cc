@@ -116,7 +116,7 @@ HEADER
 ***********************************/
 
 .header {
-  background: url('bg-banner02.jpg') no-repeat fixed;
+  background: url('../bg-banner02.jpg') no-repeat fixed;
   background-size: cover;
   min-height: 650px;
   position: relative;
